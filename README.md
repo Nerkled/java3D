@@ -14,3 +14,5 @@ Light direction refers to the direction from which light is coming in a 3D scene
 
 For more detailed information on these concepts and how they relate to the java3D render engine, please refer to the documentation or the relevant sections in the code.
 
+# Compiling
+``javac DriverViewer.java && java DriverViewer``
